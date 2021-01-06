@@ -137,8 +137,9 @@ def plot (frame, points):
         cv.circle(frame, point, radius, colour, thickness)
 
 
-cap = cv.VideoCapture(0)
+
 hist = capture_histogram(0)
+cap = cv.VideoCapture(0)
 screen = np.zeros((600, 1000))
 
 curr = None
