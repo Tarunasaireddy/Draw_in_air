@@ -2,6 +2,7 @@
 #FOR OTHER REFERENCES: https://docs.google.com/document/d/1HO3WUC97w5CL5iXMvXOGLU-5_NzgXTCxn08paHcIh60/edit
 #Make sure colour of the hand does not coincide with the colour of the
 #background.
+#Make sure the camera is stable.
 #Place your hand inside the rectangle and press "a" to start drawing .
 #Press "x" to stop drawing.
 import cv2
